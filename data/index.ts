@@ -109,6 +109,15 @@ export const projects = [
 	},
 	{
 		id: 4,
+		title: "Static-Blog",
+		des: "Static blog developed using NextJs. Feel the power of MarkDown and ContentLayer.",
+		img: "/p5.svg",
+		iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/markdown.svg"],
+		link: "https://static-blog-azure.vercel.app/",
+		sort: "FRONT END",
+	},
+	{
+		id: 5,
 		title: "Ecommerce App",
 		des: "Ecoomerce application with Admin dashboard. Manage items through admin panel.",
 		img: "/p4.svg",
@@ -121,15 +130,6 @@ export const projects = [
 		],
 		link: "https://ecom-store-liart.vercel.app/",
 		sort: "FULL STACK",
-	},
-	{
-		id: 4,
-		title: "Static-Blog",
-		des: "Static blog developed using NextJs. Feel the power of MarkDown and ContentLayer.",
-		img: "/p4.svg",
-		iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/markdown.svg"],
-		link: "https://ecom-store-liart.vercel.app/",
-		sort: "FRONT END",
 	},
 ];
 
