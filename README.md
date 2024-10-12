@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://portfolio-design-kappa.vercel.app" target="_blank">
-      <img src="https://drive.usercontent.google.com/download?id=11xfCPBUeVHsgZc0dH0tZBack49jpt2Vo" alt="Project Banner">
+      <img src="https://ik.imagekit.io/wisecks/main.png?updatedAt=1728698264676" alt="Project Banner">
     </a>
   <br />
 
