@@ -42,8 +42,8 @@ const usedApps = [
   },
   {
     id: "4",
-    title: "Photoshop",
-    icon: "/photoshop.png",
+    title: "SQL",
+    icon: "/sql.png",
     width: 34,
     height: 34,
   },
@@ -73,14 +73,15 @@ const usedApps = [
 const contentApps = [
   {
     id: "0",
-    title: "FULL STACK WEB APP",
-    text: "Full stack / Front end web application, mainly using HTML/CSS, Tailwind css, Next.js, React, Prisma, MongoDB.",
+    title: "Data Manipulation",
+    text: "Data Manipulation using SQL, NoSQL, and GraphQL",
   },
   {
     id: "1",
-    title: "FRONT END WEB APP",
-    text: "Front end Web Apps built using React, CSS/Tailwind",
+    title: "FULL STACK/ FRONT END WEB APP",
+    text: "Full stack / Front end web application, mainly using HTML/CSS, Tailwind css, Next.js, React, Prisma, MongoDB.",
   },
+
   {
     id: "2",
     title: "HTML project",

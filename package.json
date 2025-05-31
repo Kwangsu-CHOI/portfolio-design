@@ -10,7 +10,7 @@
 		"deploy": "vercel --prod"
 	},
 	"dependencies": {
-		"@radix-ui/react-dialog": "^1.1.1",
+		"@radix-ui/react-dialog": "^1.1.14",
 		"@react-three/drei": "^9.105.4",
 		"@react-three/fiber": "^8.16.2",
 		"@tabler/icons-react": "^3.1.0",
