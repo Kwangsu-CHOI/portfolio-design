@@ -32,9 +32,9 @@ const Experience = () => {
 
   const sjcDesc = [
     "Mostly Working From Home, located in Seoul, Korea",
-    "Mainly focusing on managing online sales platforms. ",
-    "Creating commercial and event images/pages and upload them to the sales platform. Tracking and analysing sales indicators.",
-    "Job also includes assisting to prepare financial documents. All information for the documents are provided by the accounting platform, named KBERP by WebCash, Korea.",
+    "Mainly focusing on managing online sales platforms and inventory management. ",
+    "Supporting inventory tracking and restocking using Excel and assisting in weekly warehouse coordination and shipment preparation. Tracking and analysing sales indicators.",
+    "Job also includes maintaining inventory and income/expense records using KBERP platform by WebCash.",
   ];
 
   const sticksIcons = [
